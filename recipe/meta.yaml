@@ -37,8 +37,11 @@ test:
 
 about:
   home: https://github.com/Fokko/mmhash3
+  dev_url: https://github.com/Fokko/mmhash3
+  doc_url: https://github.com/Fokko/mmhash3/blob/master/README.md
   summary: Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash functions.
   license: CC0-1.0
+  license_family: CC
   license_file: LICENSE
 
 extra:
